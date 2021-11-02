@@ -1,6 +1,6 @@
 on:
   rss:
-    url: https://hnrss.org/newest?points=300&count=3
+    url: https://rsshub.app/initium/latest/zh-hans
 jobs:
   print:
     name: Print
